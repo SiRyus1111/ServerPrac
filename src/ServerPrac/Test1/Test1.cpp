@@ -1,5 +1,6 @@
 ﻿#include <windows.h>
 #include <iostream>
+#include "Common.h"
 
 void err_quit(const char* msg)
 {
