@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 1", "TCP IP S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test1", "Test1\Test1.vcxproj", "{F8084EC8-A970-43D9-96C3-F480008FFEF3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 2-2,3", "TCP IP Socket 2-2,3\TCP IP Socket 2-2,3.vcxproj", "{BF695474-3A85-4228-879A-04E69A9651AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{F8084EC8-A970-43D9-96C3-F480008FFEF3}.Release|x64.Build.0 = Release|x64
 		{F8084EC8-A970-43D9-96C3-F480008FFEF3}.Release|x86.ActiveCfg = Release|Win32
 		{F8084EC8-A970-43D9-96C3-F480008FFEF3}.Release|x86.Build.0 = Release|Win32
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Debug|x64.ActiveCfg = Debug|x64
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Debug|x64.Build.0 = Debug|x64
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Debug|x86.Build.0 = Debug|Win32
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x64.ActiveCfg = Release|x64
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x64.Build.0 = Release|x64
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x86.ActiveCfg = Release|Win32
+		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

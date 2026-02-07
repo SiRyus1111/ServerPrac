@@ -1,7 +1,10 @@
-﻿#include <windows.h>
+﻿#pragma comment(lib, "ws2_32.lib")
+
+#include <WinSock2.h>
+#include <windows.h>
 #include <iostream>
-#include "Common.h"
 #include <cstdlib>
+
 
 void err_quit(const char* msg)
 {
@@ -36,4 +39,8 @@ void err_display(const char* msg)
 
 	std::cout << "[" << msg << "] " << (char*)lpMsgBuf << std::endl; // [오류 코드]오류 메시지 형식으로 출력됨
 	LocalFree(lpMsgBuf); // 할당된 메모리 해제
+}
+
+int main() {
+	return 0;
 }
