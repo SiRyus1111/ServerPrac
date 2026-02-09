@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test1", "Test1\Test1.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 2-2,3", "TCP IP Socket 2-2,3\TCP IP Socket 2-2,3.vcxproj", "{BF695474-3A85-4228-879A-04E69A9651AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 3-1", "TCP IP Socket 3-1\TCP IP Socket 3-1.vcxproj", "{23D14A05-941B-4F75-9389-C84F6CFC0F59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 3-2", "TCP IP Socket 3-2\TCP IP Socket 3-2.vcxproj", "{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +45,22 @@ Global
 		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x64.Build.0 = Release|x64
 		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x86.ActiveCfg = Release|Win32
 		{BF695474-3A85-4228-879A-04E69A9651AD}.Release|x86.Build.0 = Release|Win32
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Debug|x64.ActiveCfg = Debug|x64
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Debug|x64.Build.0 = Debug|x64
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Debug|x86.ActiveCfg = Debug|Win32
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Debug|x86.Build.0 = Debug|Win32
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Release|x64.ActiveCfg = Release|x64
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Release|x64.Build.0 = Release|x64
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Release|x86.ActiveCfg = Release|Win32
+		{23D14A05-941B-4F75-9389-C84F6CFC0F59}.Release|x86.Build.0 = Release|Win32
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Debug|x64.ActiveCfg = Debug|x64
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Debug|x64.Build.0 = Debug|x64
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Debug|x86.Build.0 = Debug|Win32
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x64.ActiveCfg = Release|x64
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x64.Build.0 = Release|x64
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x86.ActiveCfg = Release|Win32
+		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
