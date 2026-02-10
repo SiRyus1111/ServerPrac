@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 3-1", "TCP IP
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 3-2", "TCP IP Socket 3-2\TCP IP Socket 3-2.vcxproj", "{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCP IP Socket 3-3", "TCP IP Socket 3-3\TCP IP Socket 3-3.vcxproj", "{2596DD16-8031-49FF-A99C-7E80B4F96B44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x64.Build.0 = Release|x64
 		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x86.ActiveCfg = Release|Win32
 		{FE6C62EE-7062-4CEF-9124-7F748D47AA3E}.Release|x86.Build.0 = Release|Win32
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Debug|x64.ActiveCfg = Debug|x64
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Debug|x64.Build.0 = Debug|x64
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Debug|x86.ActiveCfg = Debug|Win32
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Debug|x86.Build.0 = Debug|Win32
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Release|x64.ActiveCfg = Release|x64
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Release|x64.Build.0 = Release|x64
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Release|x86.ActiveCfg = Release|Win32
+		{2596DD16-8031-49FF-A99C-7E80B4F96B44}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
