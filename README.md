@@ -8,3 +8,5 @@ TCP/IP 소켓 프로그래밍
 26.2.8|소켓 주소 구조체|TCP IP Socket 3-1|  
 26.2.9|바이트 정렬의 개념과 바이트 정렬 함수|TCP IP Socket 3-2|  
 26.2.10|IP 주소 변환과 IP 주소 변환 함수|TCP IP Socket 3-3|  
+26.2.11|도메인 네임 변환 함수|TCP IP Socket 3-4|  
+26.2.16|ChatGPT 과제(1) - 소켓 주소 구조체|TCP IP Socket 3-ex1|  
