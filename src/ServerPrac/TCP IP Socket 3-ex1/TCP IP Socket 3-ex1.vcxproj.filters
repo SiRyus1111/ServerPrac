@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TCP IP Socket 3-ex1.cpp">
+    <ClCompile Include="NetTool.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
