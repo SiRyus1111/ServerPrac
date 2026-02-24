@@ -1,6 +1,6 @@
 # ServerPrac
 게임 서버 개발 관련 실습들.  
-블로그 최신글 링크 https://blog.naver.com/siryus1111/224185119322
+블로그 최신글 링크 [https://blog.naver.com/siryus1111/224185119322]
 # 실습
 TCP/IP 소켓 프로그래밍  
 26.2.2|TCP/IP 소켓 프로그래밍 시작|TCP IP Socket 1|  
@@ -11,3 +11,4 @@ TCP/IP 소켓 프로그래밍
 26.2.10|IP 주소 변환과 IP 주소 변환 함수|TCP IP Socket 3-3|  
 26.2.11|도메인 네임 변환 함수|TCP IP Socket 3-4|  
 26.2.16|ChatGPT 과제(1) - 소켓 주소 구조체|TCP IP Socket 3-ex1|  
+26.2.25|TCP 서버 - 클라이언트 구조 & 기본적인 소켓 API (상)|TCP IP Socket 4-1-Client, TCP IP Socket 4-1|  
