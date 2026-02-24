@@ -1,6 +1,6 @@
 # ServerPrac
 게임 서버 개발 관련 실습들.  
-블로그 최신글 링크 [https://blog.naver.com/siryus1111/224185119322]
+블로그 최신글 링크 [https://velog.io/@siryus0907/series/TCPIP-%EC%86%8C%EC%BC%93-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8]
 # 실습
 TCP/IP 소켓 프로그래밍  
 26.2.2|TCP/IP 소켓 프로그래밍 시작|TCP IP Socket 1|  
